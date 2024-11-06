@@ -1,4 +1,4 @@
-# app_pantaucuan
+# Aplikasi PantauCuan 
 | NIM   | 312310576       
 |-------|---------
 | Nama  | Taufik Hidayat
