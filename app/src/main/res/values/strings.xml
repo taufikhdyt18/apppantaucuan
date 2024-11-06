@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pantau Cuan</string>
+    <string name="toggle_password_visibility">Toggle password visibility</string>
+    <string name="login_button_text">Sign In</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="error_invalid_credentials">Username atau Password salah!</string>
+    <!-- Add other strings as needed -->
+</resources>
