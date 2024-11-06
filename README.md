@@ -59,5 +59,5 @@ Layar ini memungkinkan pengguna untuk mencatat transaksi baru.
 
 
 
-### Copyright © 2024 Taufik Hidayat. All rights reserved.
+### Copyright © 2024 Arlecch. All rights reserved.
 
