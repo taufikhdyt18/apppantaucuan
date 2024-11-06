@@ -58,5 +58,6 @@ Layar ini memungkinkan pengguna untuk mencatat transaksi baru.
 - **Tools**: Git, GitHub, Android Studio
 
 
+
 # Copyright © 2024 Taufik Hidayat. All rights reserved.
 
