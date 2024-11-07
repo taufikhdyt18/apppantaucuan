@@ -12,7 +12,7 @@
 ![gambar](ss/mockup.png)
 
 #### Font & Warna UI
-![gambar](ss/color.png)
+![gambar](ss/font&warna_ui.png)
 
 #### UI
 ![gambar](ss/ui.png)
