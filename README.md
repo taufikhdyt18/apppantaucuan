@@ -5,7 +5,7 @@
 | Nama  | Taufik Hidayat
 | Kelas | TI.23.A6
 
-#### Story Board
+### Story Board
 ![gambar](ss/storyboard.png)
 
 - **1.** Tampilan pembuka aplikasi dengan logo "Pantau Cuan" dan slogan "Kelola keuanganmu dengan mudah". Latar belakang gradien biru gelap.
@@ -15,13 +15,13 @@
 - **3.** Pengguna dapat mengisi detail transaksi baru, seperti tanggal, kategori, jumlah, dll.
 Terdapat tombol "Simpan" untuk menyimpan data baru.
 
-#### Mock Up
+### Mock Up
 ![gambar](ss/mockup.png)
 
-#### Font & Warna UI
+### Font & Warna UI
 ![gambar](ss/font&warna_ui.png)
 
-#### UI
+### UI
 ![gambar](ss/ui.png)
 
 ### Eksekusi Android Studio
