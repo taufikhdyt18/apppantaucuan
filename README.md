@@ -80,5 +80,5 @@ Layar ini memungkinkan pengguna untuk mencatat transaksi baru.
 
 
 
-## Copyright © 2024 PantauCuan. All rights reserved.
+## Copyright © 2024. All rights reserved.
 
