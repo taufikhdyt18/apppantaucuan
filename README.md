@@ -24,6 +24,8 @@ Terdapat tombol "Simpan" untuk menyimpan data baru.
 #### UI
 ![gambar](ss/ui.png)
 
+#### Eksekusi Android Studio
+
 ### Penjelasan Fitur Aplikasi Pantau Cuan
 
 Aplikasi Pantau Cuan dirancang untuk membantu pengguna dalam mengelola pemasukan dan pengeluaran mereka secara praktis. Berikut adalah deskripsi dari setiap layar yang tersedia dalam aplikasi:
