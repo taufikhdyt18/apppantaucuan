@@ -17,7 +17,7 @@
 #### UI
 ![gambar](ss/ui.png)
 
-### Fitur Aplikasi Pantau Cuan
+### Penjelasan Fitur Aplikasi Pantau Cuan
 
 Aplikasi Pantau Cuan dirancang untuk membantu pengguna dalam mengelola pemasukan dan pengeluaran mereka secara praktis. Berikut adalah deskripsi dari setiap layar yang tersedia dalam aplikasi:
 
