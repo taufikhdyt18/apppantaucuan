@@ -24,7 +24,7 @@ Terdapat tombol "Simpan" untuk menyimpan data baru.
 #### UI
 ![gambar](ss/ui.png)
 
-#### Eksekusi Android Studio
+### Eksekusi Android Studio
 
 - Splash Screen
 
