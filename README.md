@@ -50,7 +50,7 @@ Layar ini memungkinkan pengguna untuk mencatat transaksi baru.
 
 - Tombol Simpan: Setelah data terisi otomatis akan kembali kelayar utama, pengguna dapat menekan tombol ini untuk menyimpan transaksi ke database aplikasi.
 
- ### Teknologi
+ ### Teknologi yang digunakan
 
 - **Frontend**: XML
 - **Backend**: Java
