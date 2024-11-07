@@ -26,6 +26,18 @@ Terdapat tombol "Simpan" untuk menyimpan data baru.
 
 #### Eksekusi Android Studio
 
+- Splash Screen
+
+![gambar](ss/cuplikan_androidstudio.png)
+
+- Halaman Utama
+
+![gambar](ss/home.png)
+
+- Halaman Tambah Data
+
+![gambar](ss/add_data.png)
+
 ### Penjelasan Fitur Aplikasi Pantau Cuan
 
 Aplikasi Pantau Cuan dirancang untuk membantu pengguna dalam mengelola pemasukan dan pengeluaran mereka secara praktis. Berikut adalah deskripsi dari setiap layar yang tersedia dalam aplikasi:
