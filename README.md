@@ -19,7 +19,7 @@ Terdapat tombol "Simpan" untuk menyimpan data baru.
 ![gambar](ss/mockup.png)
 
 ### Font & Warna UI
-![gambar](ss/font&warna.png)
+![gambar](ss/warna.png)
 
 ### UI
 ![gambar](ss/ui.png)
