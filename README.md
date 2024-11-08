@@ -18,7 +18,7 @@ Terdapat tombol "Simpan" untuk menyimpan data baru.
 ### Mock Up
 ![gambar](ss/mockup.png)
 
-### Font & Warna UI
+### Warna&Font UI
 ![gambar](ss/warna.png)
 
 ### UI
